@@ -1,15 +1,15 @@
 <h1 align="center">Hi 👋, I'm Harsh kumar</h1>
 
-<h3 align="justify"style="font-weight: normal;">I'm a Machine Learning Engineer specializing in building production-grade ML systems that deliver measurable business value. I work across the entire ML lifecycle—from data pipeline architecture and model development to deployment, monitoring, and optimization in production environments.</h3>
+<h4 align="justify"style="font-weight: normal;">I'm a Machine Learning Engineer specializing in building production-grade ML systems that deliver measurable business value. I work across the entire ML lifecycle—from data pipeline architecture and model development to deployment, monitoring, and optimization in production environments.</h4>
 
-<h3 align="justify"style="font-weight: normal;">
+<h4 align="justify"style="font-weight: normal;">
 My expertise lies What Drives My Work:
- I transform complex data challenges into scalable, reliable solutions. Whether architecting robust data pipelines, developing high-performance models, or orchestrating seamless production deployments, I prioritize code quality, reproducibility, and business impact. </h3>
+ I transform complex data challenges into scalable, reliable solutions. Whether architecting robust data pipelines, developing high-performance models, or orchestrating seamless production deployments, I prioritize code quality, reproducibility, and business impact. </h4>
 
-<h3 align="justify"style="font-weight: normal;">
+<h4 align="justify"style="font-weight: normal;">
 Current Focus Areas:
 
- Designing fault-tolerant ML systems with production-grade reliability Optimizing MLOps workflows and model lifecycle management Advancing efficiency in model training and inference pipelines I'm passionate about applying machine learning to solve real-world problems and continuously exploring emerging techniques in AI/ML. Always open to connecting with fellow practitioners and collaborating on impactful projects.</h3>
+ Designing fault-tolerant ML systems with production-grade reliability Optimizing MLOps workflows and model lifecycle management Advancing efficiency in model training and inference pipelines I'm passionate about applying machine learning to solve real-world problems and continuously exploring emerging techniques in AI/ML. Always open to connecting with fellow practitioners and collaborating on impactful projects.</h4>
 
 
 - 🌱 I’m currently learning **MLOPs, GenAI**
