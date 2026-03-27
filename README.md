@@ -3,13 +3,14 @@
 <h4 align="justify"style="font-weight: normal;">I'm a Machine Learning Engineer specializing in building production-grade ML systems that deliver measurable business value. I work across the entire ML lifecycle—from data pipeline architecture and model development to deployment, monitoring, and optimization in production environments.</h4>
 
 <h4 align="justify"style="font-weight: normal;">
-My expertise lies What Drives My Work:
- I transform complex data challenges into scalable, reliable solutions. Whether architecting robust data pipelines, developing high-performance models, or orchestrating seamless production deployments, I prioritize code quality, reproducibility, and business impact. </h4>
+My expertise lies in What Drives My Work:
+ 
+I transform complex data challenges into scalable, reliable solutions. Whether architecting robust data pipelines, developing high-performance models, or orchestrating seamless production deployments, I prioritize code quality, reproducibility, and business impact. </h4>
 
 <h4 align="justify"style="font-weight: normal;">
 Current Focus Areas:
 
- Designing fault-tolerant ML systems with production-grade reliability Optimizing MLOps workflows and model lifecycle management Advancing efficiency in model training and inference pipelines I'm passionate about applying machine learning to solve real-world problems and continuously exploring emerging techniques in AI/ML. Always open to connecting with fellow practitioners and collaborating on impactful projects.</h4>
+Designing fault-tolerant ML systems with production-grade reliability Optimizing MLOps workflows and model lifecycle management Advancing efficiency in model training and inference pipelines. I'm passionate about applying machine learning to solve real-world problems and continuously exploring emerging techniques in AI/ML. Always open to connecting with fellow practitioners and collaborating on impactful projects.</h4>
 
 
 - 🌱 I’m currently learning **MLOPs, GenAI**
@@ -34,10 +35,16 @@ Current Focus Areas:
 
 
 ### 📊 Data Science & Machine Learning
+![NumPy](https://img.shields.io/badge/-NumPy-%23013243?style=flat-square&logo=numpy&logoColor=ffffff)
 ![Pandas](https://img.shields.io/badge/-Pandas-%23150458?style=flat-square&logo=pandas&logoColor=ffffff)
+![Seaborn](https://img.shields.io/badge/-Seaborn-%234479A1?style=flat-square&logo=seaborn&logoColor=ffffff)
+![XGBoost](https://img.shields.io/badge/-XGBoost-%23101010?style=flat-square&logo=xgboost&logoColor=ffffff)
 ![PyTorch](https://img.shields.io/badge/-PyTorch-%23EE4C2C?style=flat-square&logo=pytorch&logoColor=ffffff)
 ![Scikit-Learn](https://img.shields.io/badge/-Scikit--Learn-%23F7931E?style=flat-square&logo=scikit-learn&logoColor=ffffff)
-![Seaborn](https://img.shields.io/badge/-Seaborn-%234479A1?style=flat-square&logo=seaborn&logoColor=ffffff)
+![Hugging Face](https://img.shields.io/badge/-Hugging%20Face-%23FFD21E?style=flat-square&logo=huggingface&logoColor=000000)
+![Streamlit](https://img.shields.io/badge/-Streamlit-%23FF4B4B?style=flat-square&logo=streamlit&logoColor=ffffff)
+![LangGraph](https://img.shields.io/badge/-LangGraph-%231C3C3C?style=flat-square&logo=langchain&logoColor=ffffff)
+
 
 ### 🗄️ Databases
 ![MongoDB](https://img.shields.io/badge/-MongoDB-%2347A248?style=flat-square&logo=mongodb&logoColor=ffffff)
@@ -55,6 +62,7 @@ Current Focus Areas:
 ![Grafana](https://img.shields.io/badge/-Grafana-%23F46800?style=flat-square&logo=grafana&logoColor=ffffff)
 ![DVC](https://img.shields.io/badge/-DVC-%23945DD6?style=flat-square&logo=dvc&logoColor=ffffff)
 ![MLflow](https://img.shields.io/badge/-MLflow-%230194E2?style=flat-square&logo=mlflow&logoColor=ffffff)
+![GitHub Actions](https://img.shields.io/badge/-GitHub%20Actions-%232088FF?style=flat-square&logo=github-actions&logoColor=ffffff)
 
 
 
