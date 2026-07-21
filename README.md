@@ -2,16 +2,16 @@
 
 <h3 align="center">GenAI & Agentic AI Systems</h3>
 
-<h4 align="justify" style="font-weight: normal;">
+<h4 align="justify">
 I'm a GenAI Engineer specializing in designing and deploying production-grade LLM and agentic AI systems that deliver measurable business value. I work across the full GenAI lifecycle from prompt and context engineering, RAG pipeline design, and multi-agent orchestration to safety guardrails, evaluation, and scalable production deployment.
 </h4>
 
-<h4 align="justify" style="font-weight: normal;">
+<h4 align="justify" >
 🚀 <b>What Drives My Work</b><br/>
 I transform complex data and language challenges into scalable, reliable solutions. Whether architecting robust data pipelines, developing high-performance models, building guardrailed conversational agents, or orchestrating multi-agent systems, I prioritize code quality, reproducibility, safety, and business impact.
 </h4>
 
-<h4 align="justify" style="font-weight: normal;">
+<h4 align="justify" >
 🎯 <b>Current Focus Areas</b><br/>
     • Building safe, guardrailed conversational AI with NeMo Guardrails<br/>
     • Architecting multi-agent, tool-using systems with LangGraph<br/>
